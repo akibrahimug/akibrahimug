@@ -6,7 +6,7 @@ I'm Ibrahim from London, I am a skilled and analytical Full-Stack Javascript Dev
 
 ## Skills and Experience
 
-Full Stack Developer | Javascript | React | Node | SQL | Express | Adobe XD ==> and associated tooling, libraries and frameworks
+Full Stack Developer | Javascript | React | Node | SQL | Express | Adobe XD
 
 #
 
