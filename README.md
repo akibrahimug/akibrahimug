@@ -1,5 +1,5 @@
 
-![Programming one day at a time.](https://media.licdn.com/dms/image/D5616AQFTmmZwZVeXSA/profile-displaybackgroundimage-shrink_350_1400/0/1670968642685?e=1693440000&v=beta&t=1d480PmaHo_Gqgh87jOwPDhSXfjfpKwIhQ0ruHcNvao)
+![Programming one day at a time.](https://media.licdn.com/dms/image/D5616AQFTmmZwZVeXSA/profile-displaybackgroundimage-shrink_350_1400/0/1670968642685?e=1701302400&v=beta&t=Htx6z02Yh1iZuw_fQkOxY6egdRr_qjWDu1cfEiz7X8Q)
 
 ## Hi there 👋, I'm  Ibrahim
 I'm Ibrahim from London, I am a skilled and analytical Full-Stack Javascript Developer. I am currently helping companies save time by automating time intensive processes, building reusable components, and intergrating CMS to simplify content creation and management.
