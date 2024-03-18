@@ -6,14 +6,14 @@ I'm Ibrahim from London, I am a skilled and analytical Full-Stack Javascript Dev
 
 ## Skills and Experience
 
-Full Stack Developer | Javascript | React | Node | SQL | Express | Adobe XD
+Full Stack Developer | Javascript | React + Redux(with Redux-Saga|Redux-Thunk) | Node | SQL | Express | Figma | Typescript
 
 #
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akibrahimug&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on Exciting Projects 
-- 🌱 I’m currently learning Typescript 
+- 🌱 I’m currently learning Terraform with AWS
 - 👯 I’m looking to collaborate on Open Source Projects 
 - 🤔 I’m looking for help with finding the right opportunity for growth and career progression 
 - 💬 Ask me about Javascript 
