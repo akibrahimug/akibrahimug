@@ -46,11 +46,6 @@ I'm a passionate Full-Stack JavaScript Developer based in London, specializing i
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akibrahimug&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🎯 What I'm Up To
 
 - 🔭 Working on exciting projects that challenge and grow my skills
