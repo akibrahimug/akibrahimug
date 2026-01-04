@@ -4,12 +4,21 @@
 
 ## About Me
 
-I'm a passionate Full-Stack JavaScript Developer based in London, specializing in building scalable web applications and automating business processes. With a keen eye for detail and a problem-solving mindset, I help companies optimize their workflows through:
+Frontend Engineer with 6+ years building scalable web platforms, monorepos and global content systems. I specialise in React, Next.js and TypeScript and deliver production ready solutions across AWS, GCP and Vercel.
 
-- 🔧 Building reusable and maintainable components
-- 🚀 Automating time-intensive processes
-- 📝 Implementing CMS solutions for streamlined content management
-- 🎨 Creating intuitive user interfaces
+I focus on performance, deployment automation and maintainability. I have designed and shipped Nx monorepos, micro frontends, shared component libraries and CI/CD pipelines that support 20+ products and over 3 million users.
+
+Recent results include cutting deployment times from 45 to 15 minutes, reducing bundle sizes by 50 percent and automating S3 releases across 28+ projects. I have consolidated 20+ micro frontends into a shared monorepo platform and improved test coverage from 30 percent to 85 percent.
+
+I work well in teams where I can own the frontend stack end to end and collaborate with PMs, designers and backend engineers to deliver reliable and maintainable systems. I am not just focused on building features but on improving performance, reducing deployment risk and scaling codebases.
+
+I am open to mid level and senior roles where I can contribute to:
+• Architecture and scaling of frontend systems
+• Performance optimisation and reliability
+• CI/CD, release pipelines and cloud deployment
+• Shared component libraries and monorepos
+
+If you are building a product that needs someone who understands modern frontend engineering and delivery at scale, let’s connect.
 
 ## 🛠️ Tech Stack
 
