@@ -1,4 +1,4 @@
-![Programming one day at a time](https://storage.googleapis.com/my-rest-api-2022-kasoma/linkedinWallpaper.jpeg)
+![Programming one day at a time](https://storage.googleapis.com/portfoliobackendbucket/github/Front%20end%20Engineer.png)
 
 # Hello World! 👋 I'm Ibrahim
 
