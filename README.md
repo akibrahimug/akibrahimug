@@ -4,39 +4,24 @@
 
 ## About Me
 
-Frontend Engineer with 6+ years building scalable web platforms, monorepos and global content systems. I specialise in React, Next.js and TypeScript and deliver production ready solutions across AWS, GCP and Vercel.
+Senior Frontend Engineer with 6+ years building large-scale React and Next.js platforms used in production across global markets.
 
-I focus on performance, deployment automation and maintainability. I have designed and shipped Nx monorepos, micro frontends, shared component libraries and CI/CD pipelines that support 20+ products and over 3 million users.
+I specialise in frontend architecture, performance, and delivery at scale — from Nx monorepos and shared component systems to CI/CD pipelines and CMS-driven platforms.
 
-Recent results include cutting deployment times from 45 to 15 minutes, reducing bundle sizes by 50 percent and automating S3 releases across 28+ projects. I have consolidated 20+ micro frontends into a shared monorepo platform and improved test coverage from 30 percent to 85 percent.
+I’ve owned and shipped frontend platforms supporting 20+ products and 3M+ users, with measurable impact including reduced deployment times, improved reliability, and significant performance gains.
 
-I work well in teams where I can own the frontend stack end to end and collaborate with PMs, designers and backend engineers to deliver reliable and maintainable systems. I am not just focused on building features but on improving performance, reducing deployment risk and scaling codebases.
+I work best in product-focused teams where I can own the frontend end-to-end, collaborate closely with backend, design, and product, and focus on long-term maintainability, performance, and developer experience — not just shipping features.
 
-I am open to mid level and senior roles where I can contribute to:
-• Architecture and scaling of frontend systems
-• Performance optimisation and reliability
-• CI/CD, release pipelines and cloud deployment
-• Shared component libraries and monorepos
-
-If you are building a product that needs someone who understands modern frontend engineering and delivery at scale, let’s connect.
+Open to mid–senior roles where frontend quality, scale, and platform thinking matter.
 
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Redux Saga](https://img.shields.io/badge/Redux%20Saga-593D88?style=flat-square&logo=redux&logoColor=white)
-![Redux Thunk](https://img.shields.io/badge/Redux%20Thunk-593D88?style=flat-square&logo=redux&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Storyblok](https://img.shields.io/badge/Storyblok-FF2D20?style=flat-square&logo=storyblok&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -44,8 +29,6 @@ If you are building a product that needs someone who understands modern frontend
 ![Semantic Release](https://img.shields.io/badge/Semantic_Release-FFDD57?style=flat-square&logo=semantic-release&logoColor=black)
 ![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tsup](https://img.shields.io/badge/tsup-000?style=flat-square)
-![Codecov](https://img.shields.io/badge/Codecov-3B4CCA?style=flat-square&logo=codecov&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-C61DA3?style=flat-square)
 ![Sentry](https://img.shields.io/badge/Sentry-000?style=flat-square&logo=sentry&logoColor=white)
@@ -68,9 +51,6 @@ If you are building a product that needs someone who understands modern frontend
 <div align="left">
   <a href="https://www.linkedin.com/in/kasomaibrahim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Akibrahimug" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.kasomaibrahim.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
