@@ -4,15 +4,8 @@
 
 ## About Me
 
-Senior Frontend Engineer with 6+ years building large-scale React and Next.js platforms used in production across global markets.
-
-I specialise in frontend architecture, performance, and delivery at scale — from Nx monorepos and shared component systems to CI/CD pipelines and CMS-driven platforms.
-
-I’ve owned and shipped frontend platforms supporting 20+ products and 3M+ users, with measurable impact including reduced deployment times, improved reliability, and significant performance gains.
-
-I work best in product-focused teams where I can own the frontend end-to-end, collaborate closely with backend, design, and product, and focus on long-term maintainability, performance, and developer experience — not just shipping features.
-
-Open to mid–senior roles where frontend quality, scale, and platform thinking matter.
+Senior Frontend Engineer with 6+ years of experience building and scaling production React and TypeScript applications. Strong track record delivering API-driven features end-to-end, improving performance and reliability, and shaping frontend architecture and engineering standards across complex product environments.
+Hands-on engineer comfortable owning features from implementation through to release, with experience driving technical consistency through shared systems, CI/CD improvements, testing, and code quality practices. Effective collaborator across product, design, and backend teams in fast-moving environments.
 
 ## 🛠️ Tech Stack
 
