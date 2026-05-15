@@ -26,8 +26,6 @@ Hands-on engineer comfortable owning features from implementation through to rel
 ![React Testing Library](https://img.shields.io/badge/React_Testing_Library-C61DA3?style=flat-square)
 ![Sentry](https://img.shields.io/badge/Sentry-000?style=flat-square&logo=sentry&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-
-### Currently Learning
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
