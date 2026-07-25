@@ -2,8 +2,9 @@
 
 ## About Me
 
-Senior Frontend Engineer with 6+ years of experience building and scaling production React and TypeScript applications. Strong track record delivering API-driven features end-to-end, improving performance and reliability, and shaping frontend architecture and engineering standards across complex product environments.
-Hands-on engineer comfortable owning features from implementation through to release, with experience driving technical consistency through shared systems, CI/CD improvements, testing, and code quality practices. Effective collaborator across product, design, and backend teams in fast-moving environments.
+Senior Frontend Engineer with 6+ years of experience building and scaling production TypeScript applications across frontend and backend-integrated systems. Strong track record delivering API-driven features end-to-end, improving performance and reliability, and contributing to architecture, CI/CD, and engineering standards in fast-moving product environments.
+
+Front-end engineer with strong Node.js and API integration experience, comfortable working across the stack to ship product features, improve developer workflows, and support scalable delivery in growing teams.
 
 ## 🛠️ Tech Stack
 
