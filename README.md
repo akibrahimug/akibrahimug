@@ -7,10 +7,11 @@
 
 <h1>Hey, I'm Ibrahim. 👋</h1>
 
-Senior Frontend Engineer · Frontend Platforms · Developer Experience · AI-assisted Engineering
-Building things for the web, and the systems that make them easier to build.
+**Senior Frontend Engineer** · Frontend Platforms · Developer Experience · AI-assisted Engineering
 
+Building things for the web, and the systems that make them easier to build.<br />
 📍 Stroud, Gloucestershire, UK · Open to senior frontend / frontend-platform roles
+
 <p>
   <a href="https://www.kasomaibrahim.dev/"><img src="https://img.shields.io/badge/Portfolio-26211E?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kasomaibrahim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
@@ -19,28 +20,38 @@ Building things for the web, and the systems that make them easier to build.
 
 </div>
 
-01 / A little about me
+---
+
+### 01 / A little about me
+
 I enjoy making complicated software feel simple — not by hiding the complexity, but by giving it structure.
-I'm a frontend engineer with 6+ years of production experience, working across TypeScript, React, Next.js and backend-integrated applications. At EF Education First, I work on international consumer experiences and the shared architecture, tooling and delivery pipelines behind them. I care as much about the path from idea to production as I do about the interface itself.
+
+I'm a frontend engineer with **6+ years of production experience**, working across TypeScript, React, Next.js and backend-integrated applications. At **EF Education First**, I work on international consumer experiences and the shared architecture, tooling and delivery pipelines behind them. I care as much about the path from idea to production as I do about the interface itself.
+
 Outside work, I build design systems, real-time applications and AI-native experiments. I like readable code, thoughtful abstractions, small iterations and the occasional ambitious idea.
+
 <div align="center">
 
-17 production frontends	60+ markets	45 → 15 min	60% faster
-Shared delivery platform	International reach	CI pipeline	EF EPI page loads
-
+| 17 production frontends | 60+ markets | 45 → 15 min | 60% faster |
+| :---: | :---: | :---: | :---: |
+| Shared delivery platform | International reach | CI pipeline | EF EPI page loads |
 
 </div>
 
-Selected results from my work at EF. More context and case studies →
-02 / Selected work
+*Selected results from my work at EF. [More context and case studies →](https://www.kasomaibrahim.dev/)*
+
+### 02 / Selected work
+
 A few places where architecture, performance and product engineering meet:
-Product	What I worked on
-EF English Proficiency Index	Next.js data visualisation and performance work; 60% reduction in page load time.
-EF global homepage	Consumer-facing platform work supporting international markets and frequent releases.
-EF programmes catalogue	Nx monorepo architecture consolidating 20+ microfrontends across eight product teams.
 
+| Product | What I worked on |
+| --- | --- |
+| [**EF English Proficiency Index**](https://www.ef.com/wwen/epi/) | Next.js data visualisation and performance work; 60% reduction in page load time. |
+| [**EF global homepage**](https://www.ef.com/) | Consumer-facing platform work supporting international markets and frequent releases. |
+| [**EF programmes catalogue**](https://www.ef.com/wwen/pg/) | Nx monorepo architecture consolidating 20+ microfrontends across eight product teams. |
 
-03 / Things I've built
+### 03 / Things I've built
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -82,33 +93,48 @@ An AI teaching experience with subject-specific voice companions, real-time sess
 </tr>
 </table>
 
-04 / AI isn't just a chat window
-I'm interested in agent-ready engineering: codebases that communicate their own conventions, boundaries and interfaces clearly enough for humans and coding agents to work effectively.
-- AGENTS.md and CLAUDE.md — repository-level guidance for architecture, contribution patterns and workflows.
-- llms.txt and registry.json — discoverable, machine-readable documentation for my component library.
-- AI-native applications — exploring real-time voice interaction and learning experiences through Learner.
-- Engineering judgement stays central — tests, accessibility, security, reviews and clear ownership matter more, not less, when agents write code.
-05 / My toolkit
+### 04 / AI isn't just a chat window
+
+I'm interested in **agent-ready engineering**: codebases that communicate their own conventions, boundaries and interfaces clearly enough for humans *and* coding agents to work effectively.
+
+- **`AGENTS.md` and `CLAUDE.md`** — repository-level guidance for architecture, contribution patterns and workflows.
+- **`llms.txt` and `registry.json`** — discoverable, machine-readable documentation for my [component library](https://github.com/akibrahimug/comp-lib).
+- **AI-native applications** — exploring real-time voice interaction and learning experiences through [Learner](https://github.com/akibrahimug/learner).
+- **Engineering judgement stays central** — tests, accessibility, security, reviews and clear ownership matter more, not less, when agents write code.
+
+### 05 / My toolkit
+
 <div align="center">
 
-Frontend & product engineering
+**Frontend & product engineering**
+
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,sass,redux,html,css&amp;perline=10" alt="TypeScript, JavaScript, React, Next.js, Node.js, Tailwind, Sass, Redux, HTML, CSS" />
 
-Platforms, delivery & testing
+**Platforms, delivery & testing**
+
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,vercel,vite,webpack,jest,postgres,git&amp;perline=10" alt="AWS, GCP, Docker, GitHub Actions, Vercel, Vite, Webpack, Jest, PostgreSQL, Git" />
 
 </div>
 
-Also: Nx · Storybook · React Testing Library · Cypress · Sentry · REST · Express · WebSockets · CMS integrations · CI/CD
-06 / Currently exploring
-- Frontend platforms: monorepos, design systems, build pipelines, deployment tooling and observability.
-- AI-assisted engineering: agent instructions, structured context, better workflows and AI-native interfaces.
-- Infrastructure: Docker, Terraform, Kubernetes and cloud fundamentals.
-- Better software, not just more software: performance, maintainability and developer experience.
+**Also:** Nx · Storybook · React Testing Library · Cypress · Sentry · REST · Express · WebSockets · CMS integrations · CI/CD
+
+### 06 / Currently exploring
+
+- **Frontend platforms:** monorepos, design systems, build pipelines, deployment tooling and observability.
+- **AI-assisted engineering:** agent instructions, structured context, better workflows and AI-native interfaces.
+- **Infrastructure:** Docker, Terraform, Kubernetes and cloud fundamentals.
+- **Better software, not just more software:** performance, maintainability and developer experience.
+
+---
+
 <div align="center">
 
-Have a project, a challenge, or an interesting idea?
+### Have a project, a challenge, or an interesting idea?
+
 I'm always up for a conversation about frontend architecture, developer platforms, AI, or something worth building.
-Explore my portfolio · Connect on LinkedIn · Email me
+
+**[Explore my portfolio](https://www.kasomaibrahim.dev/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/kasomaibrahim/)** · **[Email me](mailto:kasomaibrahim@gmail.com)**
+
 <sub>Thanks for stopping by. 👋</sub>
+
 </div>
