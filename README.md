@@ -1,54 +1,179 @@
-# Hello World! 👋 I'm Ibrahim
 
-## About Me
+<div align="center">
 
-Senior Frontend Engineer with 6+ years of experience building and scaling production TypeScript applications across frontend and backend-integrated systems. Strong track record delivering API-driven features end-to-end, improving performance and reliability, and contributing to architecture, CI/CD, and engineering standards in fast-moving product environments.
+# Hey, I'm Ibrahim. 👋
 
-Front-end engineer with strong Node.js and API integration experience, comfortable working across the stack to ship product features, improve developer workflows, and support scalable delivery in growing teams.
+### I build frontend systems that scale.
 
-## 🛠️ Tech Stack
+Senior Frontend Engineer · Platform Engineering · Developer Experience
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![Storyblok](https://img.shields.io/badge/Storyblok-FF2D20?style=flat-square&logo=storyblok&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Semantic Release](https://img.shields.io/badge/Semantic_Release-FFDD57?style=flat-square&logo=semantic-release&logoColor=black)
-![Rollup](https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React_Testing_Library-C61DA3?style=flat-square)
-![Sentry](https://img.shields.io/badge/Sentry-000?style=flat-square&logo=sentry&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+I turn complex frontend architectures into maintainable platforms, build tools that make engineering teams more effective, and explore how AI can improve the way we develop software.
 
-## 🎯 What I'm Up To
+Based in Gloucestershire, UK 🇬🇧
 
-- 🔭 Working on exciting projects that challenge and grow my skills
-- 🌱 Expanding my DevOps knowledge with Terraform and AWS
-- 👯 Open to collaborating on innovative open-source projects
-- 🚀 Seeking opportunities for growth and career advancement
-- 💡 Passionate about sharing JavaScript knowledge and best practices
-
-## 📫 Let's Connect!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/kasomaibrahim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p>
+  <a href="https://www.kasomaibrahim.dev/">
+    <img src="https://img.shields.io/badge/Explore_Portfolio-24211F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.kasomaibrahim.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://www.linkedin.com/in/kasomaibrahim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:kasomaibrahim@gmail.com">
+    <img src="https://img.shields.io/badge/Say_Hello-E5484D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 </div>
-
-📧 **Email:** kasomaibrahim@gmail.com
 
 ---
 
-💬 _Feel free to reach out if you want to discuss JavaScript, web development, or potential collaborations!_
+### ✦ My corner of the web
+
+<a href="https://www.kasomaibrahim.dev/">
+  <img src="https://image.thum.io/get/width/1200/crop/720/https://www.kasomaibrahim.dev/" alt="Preview of Ibrahim Kasoma's portfolio homepage" width="100%"/>
+</a>
+
+<p align="center">
+  <sub>Selected work, real engineering impact, and the ideas I'm exploring.</sub>
+</p>
+
+### A little about me
+
+I'm a frontend engineer with 6+ years of experience building production applications with TypeScript, React, Next.js and Node.js.
+
+At **EF Education First**, my work spans frontend architecture, performance engineering, shared infrastructure and developer experience. I particularly enjoy finding the underlying problems in complex systems and building solutions that make life easier for the teams working on them.
+
+My interests extend beyond the browser: from CI/CD and cloud infrastructure to AI-assisted development, distributed systems and the engineering decisions that make software resilient.
+
+### Some numbers from my work
+
+| Production frontends | International markets | CI pipeline improvement |
+| :---: | :---: | :---: |
+| **17** | **60+** | **45 → 15 min** |
+
+| EPI page load reduction | Microfrontends consolidated | Experience |
+| :---: | :---: | :---: |
+| **60%** | **20+** | **6+ years** |
+
+---
+
+### ✦ Selected projects
+
+Some things I've built outside my day-to-day work.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://devops.kasomaibrahim.dev/">
+<img src="https://image.thum.io/get/width/600/crop/380/https://devops.kasomaibrahim.dev/" alt="DevOps Insights dashboard" width="100%"/>
+</a>
+
+<h3>DevOps Insights</h3>
+
+A monitoring dashboard for infrastructure metrics across global regions, designed around clarity, useful signals and data visualisation.
+
+<sub>Next.js · TypeScript · Charts · Tailwind</sub>
+
+<p>
+<a href="https://devops.kasomaibrahim.dev/">Live demo</a> ·
+<a href="https://github.com/akibrahimug/devops-insights">Source code</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://complib.kasomaibrahim.dev/">
+<img src="https://image.thum.io/get/width/600/crop/380/https://complib.kasomaibrahim.dev/" alt="Component library Storybook" width="100%"/>
+</a>
+
+<h3>comp-lib</h3>
+
+A component-library playground exploring reusable interfaces, accessibility, design tokens and consistent UI patterns.
+
+<sub>React · TypeScript · Storybook · Tailwind</sub>
+
+<p>
+<a href="https://complib.kasomaibrahim.dev/">Live demo</a> ·
+<a href="https://github.com/akibrahimug/comp-lib">Source code</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+**🤖 Learner — AI teaching platform**
+
+An experiment in AI-native education, bringing together character-based learning companions and real-time teaching experiences.
+
+[Explore Learner](https://learner.kasomaibrahim.dev/) · [View the code](https://github.com/akibrahimug/learner)
+
+---
+
+### ✦ Engineering in the age of AI
+
+I'm interested in building systems where AI agents can contribute meaningfully without sacrificing architecture, maintainability or engineering quality.
+
+- **Agent-ready codebases:** Using `AGENTS.md`, `CLAUDE.md` and reusable Skills to document architectural boundaries, conventions and workflows.
+- **Context-driven development:** Giving agents enough information to work within established systems instead of generating disconnected solutions.
+- **AI-native experiences:** Exploring conversational interfaces, real-time learning and intelligent applications.
+- **Human-led engineering:** Keeping testing, technical judgement, security and accountability central to the development process.
+
+I see AI as another layer of engineering infrastructure — something to design around thoughtfully, not simply a shortcut for writing code.
+
+---
+
+### ✦ The tools I work with
+
+**Frontend & application development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,redux,tailwind,sass,html,css&perline=10" alt="Frontend technologies"/>
+</p>
+
+**Infrastructure, delivery & tooling**
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,terraform,vite,webpack,jest,git,postgres&perline=10" alt="Engineering and infrastructure tools"/>
+</p>
+
+**Architecture:** Nx monorepos · Microfrontends · Component libraries · REST APIs · CI/CD
+
+**Quality:** React Testing Library · Cypress · Storybook · Sentry · Core Web Vitals
+
+---
+
+### ✦ What I'm exploring
+
+| Area | Current interests |
+| --- | --- |
+| 🧠 AI Engineering | Coding agents, agent workflows, AI-native applications |
+| 🏗️ Platform Engineering | Shared infrastructure, monorepos, developer tooling |
+| ☁️ Cloud & Systems | Docker, Terraform, Kubernetes, AWS |
+| ⚡ Performance | Web Vitals, rendering, build optimisation, observability |
+
+---
+
+### A few things I believe
+
+> Good engineering isn't about introducing more technology. It's about making complex systems easier to understand, change and maintain.
+
+I like simple abstractions, clear ownership, useful documentation and tools that remove repetitive work.
+
+I'm especially interested in how software architecture, automation and developer experience come together to help teams move faster without accumulating unnecessary complexity.
+
+---
+
+### ✦ Let's connect
+
+I'm always happy to talk about frontend architecture, developer platforms, AI-assisted engineering or interesting ideas worth building.
+
+I'm open to senior frontend and frontend-platform opportunities, as well as selected freelance and contract collaborations.
+
+**[Visit my portfolio](https://www.kasomaibrahim.dev/)** · **[Connect on LinkedIn](https://www.linkedin.com/in/kasomaibrahim/)** · **[Send me an email](mailto:kasomaibrahim@gmail.com)**
+
+<br/>
+
+<div align="center">
+<sub>Thanks for stopping by. Have a look around, explore a project, or say hello. 👋</sub>
+</div>
